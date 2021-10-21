@@ -16,6 +16,7 @@
   &lt;/html&gt;<br />
 
 6. dockerfile
+
   FROM nginx:latest
 
   WORKDIR  /usr/share/nginx/html
