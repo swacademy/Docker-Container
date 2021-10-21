@@ -5,6 +5,7 @@
 4. index.html 경로 : /usr/share/nginx/html
 5. index.html 
 
+  <pre>
   <html>
     <head>
       <title>도커 이미지 예제</title>
@@ -14,6 +15,7 @@
       <h1>Nginx 서버를 도커 이미지로 만들었습니다.</h1>
     </body>
   </html>
+  </pre>
 
 6. dockerfile
   FROM nginx:latest
